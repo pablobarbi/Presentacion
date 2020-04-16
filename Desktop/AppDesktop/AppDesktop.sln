@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDesktop", "AppDesktop\AppDesktop.csproj", "{C526D300-7001-4411-B211-6D709244ECB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppService", "AppService\AppService.csproj", "{16771341-DD7D-4545-9A0A-DEEF41C93DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppDTO", "AppDTO\AppDTO.csproj", "{DE030804-3CA5-4E65-AA41-1B0099AE0666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C526D300-7001-4411-B211-6D709244ECB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C526D300-7001-4411-B211-6D709244ECB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C526D300-7001-4411-B211-6D709244ECB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C526D300-7001-4411-B211-6D709244ECB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16771341-DD7D-4545-9A0A-DEEF41C93DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16771341-DD7D-4545-9A0A-DEEF41C93DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16771341-DD7D-4545-9A0A-DEEF41C93DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16771341-DD7D-4545-9A0A-DEEF41C93DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE030804-3CA5-4E65-AA41-1B0099AE0666}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE030804-3CA5-4E65-AA41-1B0099AE0666}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE030804-3CA5-4E65-AA41-1B0099AE0666}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE030804-3CA5-4E65-AA41-1B0099AE0666}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5080DA1D-5DC4-4D31-9F2E-401A870D9683}
+	EndGlobalSection
+EndGlobal
